@@ -1,7 +1,7 @@
 ---
-title: Setting up and managing your GitHub profile
+to the title of proje of Elavationtle: Setting up and managing your GitHub profile
 intro: You can customize your GitHub profile and manage your contribution graph.
-shortTitle: Profiles
+short title: Profiles
 redirect_from:
   - /categories/setting-up-and-managing-your-github-profile
 versions:
